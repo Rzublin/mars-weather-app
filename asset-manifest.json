@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mars-weather-app/static/css/main.87b9db52.chunk.css",
+    "main.js": "/mars-weather-app/static/js/main.15af0829.chunk.js",
+    "main.js.map": "/mars-weather-app/static/js/main.15af0829.chunk.js.map",
+    "runtime-main.js": "/mars-weather-app/static/js/runtime-main.1a9d699c.js",
+    "runtime-main.js.map": "/mars-weather-app/static/js/runtime-main.1a9d699c.js.map",
+    "static/js/2.01aca1ed.chunk.js": "/mars-weather-app/static/js/2.01aca1ed.chunk.js",
+    "static/js/2.01aca1ed.chunk.js.map": "/mars-weather-app/static/js/2.01aca1ed.chunk.js.map",
+    "index.html": "/mars-weather-app/index.html",
+    "precache-manifest.cca5c174edb5006a552503a57977b35a.js": "/mars-weather-app/precache-manifest.cca5c174edb5006a552503a57977b35a.js",
+    "service-worker.js": "/mars-weather-app/service-worker.js",
+    "static/css/main.87b9db52.chunk.css.map": "/mars-weather-app/static/css/main.87b9db52.chunk.css.map",
+    "static/js/2.01aca1ed.chunk.js.LICENSE.txt": "/mars-weather-app/static/js/2.01aca1ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a9d699c.js",
+    "static/js/2.01aca1ed.chunk.js",
+    "static/css/main.87b9db52.chunk.css",
+    "static/js/main.15af0829.chunk.js"
+  ]
+}
